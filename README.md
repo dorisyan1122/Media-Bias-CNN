@@ -1,5 +1,5 @@
 # Media_Bias_CNN
-This project uses sentiment analysis, TF-IDF (term frequency-inverse document frequency) and Latent Dirichlet Allocation (LDA) topic modeling to evaluate political bias in CNN Politics.
+This project uses sentiment analysis, TF-IDF (term frequency-inverse document frequency) and Latent Dirichlet Allocation (LDA) topic modeling to evaluate political bias in 409 pieces of CNN Politics news.
 
 I conduct sentiment analysis using three different lexicons to compare the sentiment in Democrat and Republican-related news texts: Afinn sentiment score, Bing vocabulary, and NRC lexicon. 
 
